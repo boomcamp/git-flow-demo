@@ -1,7 +1,7 @@
 
 # Workflows with git-flow (demonstration)
 
-By installing git-flow, you'll have a handful of extra commands available. Each of these commands performs multiple tasks automatically and in a predefined order. And voila - there we have our workflows!
+By installing [git-flow](https://github.com/petervanderdoes/gitflow-avh/wiki/Installing-on-Linux,-Unix,-etc.), you'll have a handful of extra commands available. Each of these commands performs multiple tasks automatically and in a predefined order. And voila - there we have our workflows!
 
 git-flow is by no means a replacement for Git. It's just a set of scripts that combine standard Git commands in a clever way.
 
