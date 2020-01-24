@@ -271,6 +271,10 @@ dev@jino:~/git-demo$ git tag
 3.) Done!, you can now push your changes to `remote master branch` and also `do not forget to push your newly created tags`, you can set [git aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases) for git flow shorter commands.
 
 
+### Git Aliases
+
+[gist example](https://gist.github.com/MrMovl/b8d3f390e3c43e911bff19f45b11e32c)
+
 ### External reference
 
 
