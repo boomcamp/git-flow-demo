@@ -268,7 +268,7 @@ dev@jino:~/git-demo$ git tag
 **Demo:** [git flow hotfix finish](https://youtu.be/4Q8Y-wRQLdA):
 
 
-3.) Done you can now push your changes to `remote master branch` and also `do not forget to push your newly created tags`.
+3.) Done!, you can now push your changes to `remote master branch` and also `do not forget to push your newly created tags`, you can set [git aliases](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases) for git flow shorter commands.
 
 
 ### External reference
