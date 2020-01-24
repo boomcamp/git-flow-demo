@@ -84,7 +84,7 @@ Hooks and filters directory? [/home/dev/git-demo/.git/hooks]
 Demo: [git flow init](https://youtu.be/vgSfyibTK3c)
 
 
-2.) git flow feature start login
+2.) git flow feature start [feature name]
 
 ```
 dev@jino:~/git-demo$ git flow feature start login
@@ -107,7 +107,7 @@ dev@jino:~/git-demo$ git branch
 Demo: [git flow feature start ](https://youtu.be/KVLlYyXE1ww)
 
 
-3.) git flow feature finish login
+3.) git flow feature finish [feature name]
 
 ```
 dev@jino:~/git-demo$ git branch
@@ -137,7 +137,8 @@ Demo: [git flow feature finish](https://youtu.be/fmNMz-ImDT8)
 ## Managing release branches
 
 
-1.) git flow release start v1.0.1
+1.) git flow release start [release version]
+
 
 ```
 dev@jino:~/git-demo$ git branch
@@ -166,7 +167,8 @@ dev@jino:~/git-demo$ git branch
 Demo: [git flow release start](https://youtu.be/lLWzDkeTeIYgif)
 
 
-2.) git flow release finish v1.0.1
+2.) git flow release finish [release version]
+
 
 ```
 dev@jino:~/git-demo$ git branch
@@ -203,7 +205,8 @@ Demo: [git flow release finish](https://youtu.be/pP6caa5yOLw)
 ## Quick fix from master branch using Hotfixes!
 
 
-1.) git flow hotfix start broken-link
+1.) git flow hotfix start [hotfix name]
+
 
 ```
 dev@jino:~/git-demo$ git branch
@@ -229,11 +232,13 @@ dev@jino:~/git-demo$ git branch
   master
 ```
 
+
 Demo: [git flow hotfix start](https://youtu.be/oznDFJ_xsb8)
 
 
 
-2.) git flow hotfix finish broken-link
+2.) git flow hotfix finish [hotfix name]
+
 
 ```
 dev@jino:~/git-demo$ git branch
@@ -266,4 +271,4 @@ Demo: [git flow hotfix finish](https://youtu.be/4Q8Y-wRQLdA):
 ### Resource
 
 
-[git-flow](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/git-flow)
+[Git flow](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/git-flow)
