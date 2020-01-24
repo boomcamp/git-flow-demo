@@ -259,9 +259,7 @@ dev@jino:~/git-demo$ git tag
 ```
 
 
-Demo: 
-
-TODO:
+Demo: [git flow hotfix finish](https://youtu.be/4Q8Y-wRQLdA):
 
 
 
