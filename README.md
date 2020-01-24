@@ -9,7 +9,7 @@ Strictly speaking, you wouldn't even have to install anything to use the git-flo
 
 
 
-## Installation and testing
+# Installation procedure
 
 1. Install [git-flow](https://github.com/petervanderdoes/gitflow-avh/wiki/Installing-on-Linux,-Unix,-etc.).
 
@@ -58,7 +58,9 @@ usage: git flow feature [list]
 ```
 
 
-### Demonstration
+
+
+## Initialization and creating feature branches
 
 1.) Let's initialize it in a new project with `git flow init`
 
@@ -137,7 +139,9 @@ Demo:
 ![](gif/git-flow-feature-finish.gif)
 
 
-### Managing releases
+
+## Managing release branches
+
 
 1.) git flow release start v1.0.1
 
@@ -201,10 +205,12 @@ Demo:
 
 
 
-3.) Done you can now push your changes to master branch `do not forget to push your new tags`.
+3.) Done you can now push your changes to master branch `do not forget to push your newly created tags`.
 
 
-### Quick fix from master branch using Hotfixes!
+
+
+## Quick fix from master branch using Hotfixes!
 
 
 1.) git flow hotfix start broken-link
@@ -268,6 +274,7 @@ dev@jino:~/git-demo$ git tag
 Demo: 
 
 ![](gif/git-flow-hotfix-finish.gif)
+
 
 
 ### Resource
