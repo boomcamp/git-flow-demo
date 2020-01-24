@@ -83,7 +83,7 @@ Hooks and filters directory? [/home/dev/git-demo/.git/hooks]
 
 Demo: 
 
-![](gif/git-flow-init.gif)
+[git flow init](https://youtu.be/vgSfyibTK3c)
 
 
 2.) git flow feature start login
@@ -108,7 +108,7 @@ dev@jino:~/git-demo$ git branch
 
 Demo: 
 
-![](gif/git-flow-feature-start.gif)
+[git-flow-feature-start](https://youtu.be/KVLlYyXE1ww)
 
 
 3.) git flow feature finish login
@@ -136,7 +136,7 @@ dev@jino:~/git-demo$ git branch
 
 Demo: 
 
-![](gif/git-flow-feature-finish.gif)
+[git-flow-feature-finish](https://youtu.be/fmNMz-ImDT8)
 
 
 
@@ -171,7 +171,7 @@ dev@jino:~/git-demo$ git branch
 
 Demo: 
 
-![](gif/git-flow-release-start.gif)
+[git-flow-release-start](https://youtu.be/lLWzDkeTeIYgif)
 
 
 2.) git flow release finish v1.0.1
@@ -201,7 +201,7 @@ dev@jino:~/git-demo$ git tag
 
 Demo: 
 
-![](gif/git-flow-release-finish.gif)
+[git-flow-release-finish](https://youtu.be/pP6caa5yOLw)
 
 
 
@@ -241,7 +241,7 @@ dev@jino:~/git-demo$ git branch
 
 Demo: 
 
-![](gif/git-flow-hotfix-start.gif)
+[git-flow-hotfix-start](https://youtu.be/oznDFJ_xsb8)
 
 
 
@@ -273,7 +273,7 @@ dev@jino:~/git-demo$ git tag
 
 Demo: 
 
-![](gif/git-flow-hotfix-finish.gif)
+TODO:
 
 
 
