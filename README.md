@@ -273,7 +273,7 @@ dev@jino:~/git-demo$ git tag
 
 ### Git Aliases
 
-[gist example](https://gist.github.com/MrMovl/b8d3f390e3c43e911bff19f45b11e32c)
+[gist alias example](https://gist.github.com/MrMovl/b8d3f390e3c43e911bff19f45b11e32c)
 
 ### External reference
 
